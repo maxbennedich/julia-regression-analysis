@@ -1,0 +1,11 @@
+name = "SampleProjectTest"
+uuid = "a0e5de12-d1c1-11e9-0d35-b5e717783b63"
+authors = ["Max Bennedich <bennedich@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+SampleProject = "a0e5de12-d1c1-11e9-0d35-b5e717783b63"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
